@@ -1,2 +1,2 @@
 # py-qr-code-generator
-generatore di codici qr semplice ed open source
+generatore e scanner di codici qr semplice ed open source
